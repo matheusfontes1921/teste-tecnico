@@ -1,2 +1,2 @@
 # teste-tecnico
-Teste lógico para estagiário em Potugol e Java
+Teste lógico para estagiário em Portugol e Java
